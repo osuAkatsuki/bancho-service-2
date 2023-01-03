@@ -1,0 +1,11 @@
+fastapi
+asyncql[mysql]
+structlog
+python-dotenv
+aioredis==2.0.1
+uvicorn
+orjson
+bcrypt
+aioredlock
+httpx
+geoip2
